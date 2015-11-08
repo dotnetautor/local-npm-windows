@@ -1,0 +1,15 @@
+{
+  "name": "local-npm-windows",
+  "version": "0.1.0",
+  "description": "a local npm registry running as windows service",
+  "main": "npm-local.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthias Fischer",
+  "license": "MIT",
+  "dependencies": {
+    "local-npm": "^1.4.9",
+    "node-windows": "^0.1.10"
+  }
+}

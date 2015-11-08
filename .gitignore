@@ -25,3 +25,13 @@ build/Release
 # Dependency directory
 # https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
 node_modules
+typings
+
+# Data directories
+_replicator
+_users
+binarydb
+pouch_*
+skimdb
+daemon
+log.txt
